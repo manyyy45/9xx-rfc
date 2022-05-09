@@ -5,7 +5,7 @@ Years 2113 AD - 2123 AD
 
 (Year 2113) 901 Every Internet Company shutting down soon <br>
 (Year 2113) 910 Every Internet Company shut down <br>
-(Year 2115) 911 Every Internet Project has been shut down by one of the W3 employees <br>
+(Year 2115) 911 Every Internet Project has been shut down by the W3 employees <br>
 (Year 2116) 915 Database technology has been shut down <br>
 (Year 2116) 920 Multimedia technology has been shut down <br>
 (Year 2116) 922 CSS has been shut down <br>
